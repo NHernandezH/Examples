@@ -1,0 +1,10 @@
+com\noe\trackauthorizations\controller\TrackController.class
+com\noe\trackauthorizations\dto\AuthorizationDTO.class
+com\noe\trackauthorizations\dto\ErrorDTO.class
+com\noe\trackauthorizations\mappers\AuthorizationMapper.class
+com\noe\trackauthorizations\entity\Authorization.class
+com\noe\trackauthorizations\exception\AuthorizationNotFoundException.class
+com\noe\trackauthorizations\Application.class
+com\noe\trackauthorizations\exception\ExceptionsHandler.class
+com\noe\trackauthorizations\repository\AuthorizationRepositoryH2.class
+com\noe\trackauthorizations\service\AuthorizationTrackingService.class

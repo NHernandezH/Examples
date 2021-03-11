@@ -1,0 +1,10 @@
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\controller\TrackController.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\repository\AuthorizationRepositoryH2.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\dto\AuthorizationDTO.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\dto\ErrorDTO.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\exception\AuthorizationNotFoundException.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\Application.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\exception\ExceptionsHandler.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\entity\Authorization.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\mappers\AuthorizationMapper.java
+C:\Users\noe_5\OneDrive\Documents\NetBeansProjects\Task2_TrackAuthorizations\src\main\java\com\noe\trackauthorizations\service\AuthorizationTrackingService.java
